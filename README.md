@@ -1,9 +1,22 @@
-Dog-and-Food-Supplies 🐶🍖
+# Dog-and-Food-Supplies 🐶🍖
 
-This PHP web application facilitates the management of a pet supply store, focusing on dog-related products. Key features include:
+This PHP web application facilitates the management of a pet supply store, focusing on dog-related products.  
 
-User Authentication: Secure login system for staff and customers (login.php, logout.php).
-Product Management: Tools for adding, updating, and viewing products (products.php, products_crud.php).
-Order Processing: Handling customer orders and generating invoices (orders.php, invoice.php).
-Customer Relations: Managing customer information and interactions (customers.php, customers_crud.php).
-The application employs a MySQL database for data storage (database.php) and incorporates session management for user authentication (session.php, session_login.php). The user interface is enhanced with CSS (css/ directory) and JavaScript (js/ directory) for a seamless experience.
+## Key Features  
+- **User Authentication**: Secure login system for staff and customers (`login.php`, `logout.php`).  
+- **Product Management**: Tools for adding, updating, and viewing products (`products.php`, `products_crud.php`).  
+- **Order Processing**: Handling customer orders and generating invoices (`orders.php`, `invoice.php`).  
+- **Customer Relations**: Managing customer information and interactions (`customers.php`, `customers_crud.php`).  
+
+## Technologies Used  
+- **PHP** for backend logic  
+- **MySQL** for data storage (`database.php`)  
+- **CSS & JavaScript** for frontend enhancement (`css/`, `js/`)  
+- **Session Management** for authentication (`session.php`, `session_login.php`)  
+
+This project aims to streamline pet store operations with an efficient and user-friendly management system.  
+
+---
+  
+📌 **GitHub Repository**: [Dog-and-Food-Supplies](https://github.com/danishbil7/Dog-and-Food-Supplies)  
+
